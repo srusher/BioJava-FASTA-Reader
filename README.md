@@ -12,7 +12,7 @@ This program uses BioJava 1.7.1 packages to intake a FASTA file, parse out each 
 - This program uses a BioJava 1.7.1 jar file as an external library to import BioJava packages.
 
 # Output GUI File Directory:
-![Image of Output](https://github.com/srusher/Restriction-Enzyme-Site-Locator/blob/master/Output/Output2.png)
+![Image of Output](https://github.com/srusher/BioJava-FASTA-Reader/blob/master/Output2.PNG)
 
 # Output Results:
-![Image of Output](https://github.com/srusher/Restriction-Enzyme-Site-Locator/blob/master/Output/Output2.png)
+![Image of Output](https://github.com/srusher/BioJava-FASTA-Reader/blob/master/Output1.PNG)
